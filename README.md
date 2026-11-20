@@ -31,9 +31,10 @@ Practical Azure infrastructure implementations using Terraform, with a focus on 
 
 ### 🤝 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
-- [GitHub](https://github.com/teodoro-diaz)
-- Lima, Peru
+- 💼 [LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
+- 🐙 [GitHub](https://github.com/teodoro-diaz)
+- 📧 [Email](mailto:tdiaz@outlook.com)
+- 📍 Lima, Peru
 
 ---
 
