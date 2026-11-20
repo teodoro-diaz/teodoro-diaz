@@ -65,7 +65,7 @@ Secure Azure architecture using App Service, Managed Identity, Azure Key Vault, 
 [View Repository](https://github.com/teodoro-diaz/azure-identity-security-lab)
 
 
-### 🤝 Connect
+## 🤝 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
 - 🐙 [GitHub](https://github.com/teodoro-diaz)
