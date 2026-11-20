@@ -41,7 +41,7 @@ I enjoy building, managing, and improving infrastructure — from Linux systems 
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 
 
-### 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
 - Cloud infrastructure and architecture
 - Kubernetes & platform engineering
