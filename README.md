@@ -2,98 +2,39 @@
 
 ### Cloud & Infrastructure Engineer
 
-Infrastructure engineer with experience in enterprise IT operations, Linux systems administration, cloud platforms, virtualization, and automation.
+Working across enterprise infrastructure, cloud platforms, and automation.
 
-My background combines traditional infrastructure engineering with modern cloud-native technologies, focusing on reliability, operational excellence, and infrastructure automation.
+I enjoy building, managing, and improving infrastructure — from Linux systems and virtualization to cloud-native platforms.
 
----
+### ⚙️ Technologies & Tools
 
-## 🧑‍💻 Professional Expertise
+- **Cloud:** Azure, AWS
+- **Containers:** Kubernetes, AKS, EKS, OpenShift, Docker
+- **Infrastructure:** Linux (RHEL), Windows Server, VMware
+- **Automation:** Terraform, Ansible
+- **DevOps:** GitOps, CI/CD
+- **Observability:** Prometheus, Grafana, OpenTelemetry
 
-**☁️ Cloud & Hybrid Infrastructure**
-- Microsoft Azure
-- Cloud Infrastructure & Architecture
-- Hybrid Infrastructure
-- Azure Networking & Administration
+### 🚀 What I'm Working On
 
-**🐧 Systems & Enterprise Infrastructure**
-- Red Hat Enterprise Linux (RHEL 7/8)
-- Windows Server
-- VMware ESXi
-- Active Directory & Microsoft 365
-- Enterprise Storage & Backup Solutions
+- Cloud infrastructure and architecture
+- Kubernetes & platform engineering
+- Infrastructure as Code
+- Automation and operational reliability
+- Hands-on engineering projects
 
-**☸️ Containers & Platforms**
-- Kubernetes
-- Azure Kubernetes Service (AKS)
-- Amazon EKS
-- Red Hat OpenShift
-- Docker
+### 🔬 Featured Project
 
-**⚙️ Automation & DevOps**
-- Terraform
-- Ansible
-- CI/CD
-- GitOps
-- Infrastructure as Code (IaC)
+**[Azure Infrastructure Engineering Lab](https://github.com/teodoro-diaz/azure-infrastructure-engineering-lab)**
 
-**📊 Monitoring & Observability**
-- Prometheus
-- Grafana
-- OpenTelemetry
+Practical Azure infrastructure implementations using Terraform, with a focus on networking, security, and automation.
+
+### 🤝 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
+- [GitHub](https://github.com/teodoro-diaz)
+- Lima, Peru
 
 ---
 
-## 🏗️ Infrastructure Engineering Background
-
-My professional experience includes:
-
-- Administration of enterprise Linux and Windows environments.
-- Management of critical infrastructure in banking environments.
-- Server migrations, operating system upgrades, and provisioning.
-- Virtualization, enterprise storage, and backup management.
-- Network infrastructure and corporate services.
-- Infrastructure automation using Ansible.
-- Cloud and hybrid infrastructure operations.
-- Incident management and production troubleshooting.
-
----
-
-## 🚀 Current Engineering Focus
-
-- Cloud Infrastructure Engineering
-- Kubernetes & Container Platforms
-- Azure Architecture & Networking
-- Infrastructure as Code with Terraform
-- Platform Engineering & Automation
-- Cloud-Native Infrastructure Operations
-
----
-
-## 🔬 Engineering Projects
-
-### Azure Infrastructure Engineering Lab
-
-Practical implementation of cloud infrastructure using Terraform, including resource management, networking, security, and automation.
-
-🔗 [View Project](https://github.com/teodoro-diaz/azure-infrastructure-engineering-lab)
-
----
-
-## 📚 Engineering Philosophy
-
-I believe in building reliable infrastructure through practical engineering, automation, continuous improvement, and technical documentation.
-
-This GitHub profile showcases hands-on implementations, architecture designs, infrastructure projects, troubleshooting scenarios, and engineering practices.
-
----
-
-## 🤝 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
-- 🐙 [GitHub](https://github.com/teodoro-diaz)
-- 📍 Lima, Peru
-
----
-
-*Engineering reliable infrastructure. Automating operations. Building cloud platforms.*
+*Building infrastructure. Automating operations. Engineering solutions.*
