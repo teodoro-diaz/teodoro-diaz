@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner-github.jpeg"
+       alt="Teodoro Diaz - Cloud & Infrastructure Engineering"
+       width="100%">
+</p>
+
 # Hi, I'm Teodoro Diaz 👋
 
 ### Cloud & Infrastructure Engineer
