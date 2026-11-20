@@ -2,44 +2,91 @@
 
 ### Cloud & Infrastructure Engineer
 
-IT professional focused on cloud infrastructure, enterprise platforms, systems administration, and automation.
+Infrastructure engineer with experience in enterprise IT operations, Linux systems administration, cloud platforms, virtualization, and automation.
 
-I work with infrastructure technologies to design, implement, operate, and troubleshoot reliable IT environments.
+My background combines traditional infrastructure engineering with modern cloud-native technologies, focusing on reliability, operational excellence, and infrastructure automation.
 
 ---
 
-## 🧑‍💻 Professional Profile
+## 🧑‍💻 Professional Expertise
 
-- ☁️ **Cloud:** Microsoft Azure, AWS
-- ☸️ **Container Platforms:** Kubernetes, AKS, EKS, OpenShift
-- 🐧 **Operating Systems:** Red Hat Enterprise Linux
-- 🐳 **Containers:** Docker
-- ⚙️ **Infrastructure as Code:** Terraform
-- 🔄 **DevOps:** CI/CD, GitOps, Infrastructure Automation
-- 📊 **Observability:** Prometheus, Grafana, OpenTelemetry
+**☁️ Cloud & Hybrid Infrastructure**
+- Microsoft Azure
+- Cloud Infrastructure & Architecture
+- Hybrid Infrastructure
+- Azure Networking & Administration
 
-## 🛠️ Technical Focus
+**🐧 Systems & Enterprise Infrastructure**
+- Red Hat Enterprise Linux (RHEL 7/8)
+- Windows Server
+- VMware ESXi
+- Active Directory & Microsoft 365
+- Enterprise Storage & Backup Solutions
+
+**☸️ Containers & Platforms**
+- Kubernetes
+- Azure Kubernetes Service (AKS)
+- Amazon EKS
+- Red Hat OpenShift
+- Docker
+
+**⚙️ Automation & DevOps**
+- Terraform
+- Ansible
+- CI/CD
+- GitOps
+- Infrastructure as Code (IaC)
+
+**📊 Monitoring & Observability**
+- Prometheus
+- Grafana
+- OpenTelemetry
+
+---
+
+## 🏗️ Infrastructure Engineering Background
+
+My professional experience includes:
+
+- Administration of enterprise Linux and Windows environments.
+- Management of critical infrastructure in banking environments.
+- Server migrations, operating system upgrades, and provisioning.
+- Virtualization, enterprise storage, and backup management.
+- Network infrastructure and corporate services.
+- Infrastructure automation using Ansible.
+- Cloud and hybrid infrastructure operations.
+- Incident management and production troubleshooting.
+
+---
+
+## 🚀 Current Engineering Focus
 
 - Cloud Infrastructure Engineering
-- Kubernetes & Container Orchestration
-- Infrastructure as Code (IaC)
-- Linux Systems Administration
-- Cloud Networking & Security
-- Infrastructure Operations & Troubleshooting
+- Kubernetes & Container Platforms
+- Azure Architecture & Networking
+- Infrastructure as Code with Terraform
+- Platform Engineering & Automation
+- Cloud-Native Infrastructure Operations
 
-## 🚀 Featured Projects
+---
+
+## 🔬 Engineering Projects
 
 ### Azure Infrastructure Engineering Lab
 
-Practical implementation of Azure infrastructure using Terraform, focusing on networking, resource management, security, and infrastructure automation.
+Practical implementation of cloud infrastructure using Terraform, including resource management, networking, security, and automation.
 
 🔗 [View Project](https://github.com/teodoro-diaz/azure-infrastructure-engineering-lab)
 
-## 📚 Engineering Approach
+---
 
-I believe in learning through practical implementation, documenting technical decisions, validating solutions, and sharing engineering knowledge.
+## 📚 Engineering Philosophy
 
-My repositories showcase hands-on projects, technical documentation, architecture designs, automation, and troubleshooting scenarios.
+I believe in building reliable infrastructure through practical engineering, automation, continuous improvement, and technical documentation.
+
+This GitHub profile showcases hands-on implementations, architecture designs, infrastructure projects, troubleshooting scenarios, and engineering practices.
+
+---
 
 ## 🤝 Connect with Me
 
@@ -49,4 +96,4 @@ My repositories showcase hands-on projects, technical documentation, architectur
 
 ---
 
-*Building, automating, documenting, and improving infrastructure.*
+*Engineering reliable infrastructure. Automating operations. Building cloud platforms.*
