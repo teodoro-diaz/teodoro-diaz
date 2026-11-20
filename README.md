@@ -4,13 +4,12 @@
        width="100%">
 </p>
 
+
 # Hi, I'm Teodoro Diaz 👋
 
 ### Cloud & Infrastructure Engineer
 
-Working across enterprise infrastructure, cloud platforms, and automation.
-
-I enjoy building, managing, and improving infrastructure — from Linux systems and virtualization to cloud-native platforms.
+Working across enterprise infrastructure, cloud platforms, and automation — from Linux systems and virtualization to cloud-native technologies.
 
 
 ## ⚙️ Tech Stack
@@ -45,9 +44,8 @@ I enjoy building, managing, and improving infrastructure — from Linux systems 
 
 - Cloud infrastructure and architecture
 - Kubernetes & platform engineering
-- Infrastructure as Code
-- Automation and operational reliability
-- Hands-on engineering projects
+- Infrastructure as Code with Terraform
+- Automation, security and operational reliability
 
 
 ## 🚀 Featured Projects
