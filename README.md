@@ -49,11 +49,21 @@ I enjoy building, managing, and improving infrastructure — from Linux systems 
 - Automation and operational reliability
 - Hands-on engineering projects
 
-### 🔬 Featured Project
 
-**[Azure Infrastructure Engineering Lab](https://github.com/teodoro-diaz/azure-infrastructure-engineering-lab)**
+## 🚀 Featured Projects
 
-Practical Azure infrastructure implementations using Terraform, with a focus on networking, security, and automation.
+### ☁️ Azure Infrastructure Engineering Lab
+
+Hands-on Azure infrastructure implementation using Terraform, focusing on networking, compute, security, and infrastructure automation.
+
+[View Repository](https://github.com/teodoro-diaz/azure-infrastructure-engineering-lab)
+
+### 🔐 Azure Identity & Security Lab
+
+Secure Azure architecture using App Service, Managed Identity, Azure Key Vault, RBAC, and Private Endpoint.
+
+[View Repository](https://github.com/teodoro-diaz/azure-identity-security-lab)
+
 
 ### 🤝 Connect
 
