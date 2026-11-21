@@ -50,7 +50,7 @@ Working across enterprise infrastructure, cloud platforms, and automation — fr
 
 ## 🚀 Featured Projects
 
-### ☁️ Azure Infrastructure Engineering Lab<br>
+### ☁️ Azure Infrastructure Engineering Lab
 Hands-on Azure infrastructure implementation using Terraform, focusing on networking, compute, security, and infrastructure automation.<br>
 [View Repository](https://github.com/teodoro-diaz/azure-infrastructure-engineering-lab)
 
